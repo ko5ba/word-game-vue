@@ -1,0 +1,8 @@
+:root {
+    --color-primary-button: #008BFE;
+    --color-primary-button-hover: #006FCB;
+}
+
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
